@@ -21,6 +21,20 @@ Dibuat sebagai proyek skripsi, S1 Sistem Informasi, Universitas AMIKOM Yogyakart
 - Kelola tarif air, berita, profil, galeri, prestasi, dan user
 - Dokumen sensitif pelanggan (KTP, berkas kepemilikan) disimpan di storage privat dan hanya bisa dibuka user yang sudah login
 
+## Tampilan
+
+### Beranda
+<img src="docs/screenshots/beranda.png" alt="Beranda" width="800">
+
+### Cek tagihan pelanggan
+<img src="docs/screenshots/cek-tagihan.png" alt="Cek tagihan" width="800">
+
+### Pembayaran online via Midtrans (mode sandbox)
+<img src="docs/screenshots/midtrans.png" alt="Pembayaran Midtrans" width="800">
+
+### Dashboard admin (data pendaftaran sambungan baru per kecamatan dan rayon)
+<img src="docs/screenshots/dashboard-admin.png" alt="Dashboard admin" width="800">
+
 ## Teknologi
 
 | Bagian | Teknologi |

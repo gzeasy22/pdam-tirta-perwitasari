@@ -104,4 +104,4 @@ routes/web.php          seluruh rute aplikasi
 
 ## Pengembang
 
-Wahyu Ansyah, Universitas AMIKOM Yogyakarta
+Wahyu Ferdiansyah, Universitas AMIKOM Yogyakarta
